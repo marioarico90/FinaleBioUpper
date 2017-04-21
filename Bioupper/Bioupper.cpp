@@ -4,6 +4,8 @@
 #include "stdafx.h"
 
 
+class test {};
+
 int main()
 {
     return 0;
