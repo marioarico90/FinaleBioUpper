@@ -5,6 +5,7 @@
 
 
 class test {};
+class test01 {};
 
 int main()
 {
