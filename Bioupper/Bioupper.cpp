@@ -6,7 +6,7 @@
 
 class test {};
 class test01 {};
-
+class primirPuussy {};
 int main()
 {
     return 0;
